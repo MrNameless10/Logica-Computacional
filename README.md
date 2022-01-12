@@ -13,3 +13,9 @@ Nesta disciplina procura-se
 Como contrapartida a lógica aqui usada é relativamente simples: muita vezes está limitada à Lógica Proposicional.
 
 Partner : [@TomasCampinho](https://github.com/TomasCampinho)
+
+Nota Final: 
+  * [TP1](https://github.com/MrNameless10/Logica-Computacional/tree/main/Projeto/TP1): B;
+  * [TP2](https://github.com/MrNameless10/Logica-Computacional/tree/main/Projeto/TP2): B;
+  * [TP3](https://github.com/MrNameless10/Logica-Computacional/tree/main/Projeto/TP3): A-;
+  * [TP4](https://github.com/MrNameless10/Logica-Computacional/tree/main/Projeto/TP4): B;
